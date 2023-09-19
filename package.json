@@ -20,7 +20,7 @@
     "prebuild": "rm -rf dist",
     "build": "ts-node build.ts",
     "postbuild": "tsc",
-    "deploy": "npm publish",
+    "deploy": "npm publish --access public",
     "pretest": "yarn build",
     "test": "jest"
   },
