@@ -1,5 +1,5 @@
 {
-  "name": "brotli-compress",
+  "name": "@piercefreeman/brotli-compress",
   "version": "1.3.3",
   "main": "index.js",
   "module": "index.mjs",
@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyr0/brotli-compress.git"
+    "url": "git+https://github.com/piercefreeman/brotli-compress.git"
   },
-  "author": "Aron Homberg <info@aron-homberg.de>, Tim Perry <tim@httptoolkit.tech>",
+  "author": "Pierce Freeman <pierce@freeman.vc>, Aron Homberg <info@aron-homberg.de>, Tim Perry <tim@httptoolkit.tech>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/kyr0/brotli-compress/issues"
